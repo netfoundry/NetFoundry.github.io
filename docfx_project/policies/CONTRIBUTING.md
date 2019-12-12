@@ -1,7 +1,7 @@
 # Contributing
 
 NetFoundry welcomes all contributions large or small from the community. If you want to contribute to a NetFoundry
-repository this document will serve as a guide. Contributions can come in various forms such as [bug reports](#bug-reports),
+repository this document will serve as a guide. Contributions can come in various forms such as [bug reports](#example-bugissue-report),
 engaging with other users by offering help on the the [discourse group](https://netfoundry.discourse.group/) and
 of course as code submissions. Please take a moment and read this document to see how you can help out.
 
