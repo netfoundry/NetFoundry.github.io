@@ -1,8 +1,8 @@
 # Contributing
 
 NetFoundry welcomes all contributions large or small from the community. If you want to contribute to a NetFoundry
-repository this document will hopefully serve as a guide. Contributions can come in various forms such as [bug reports](#bug-reports),
-engaging with other users by offering help on the the [discourse group](https://netfoundry.discourse.group/) forum and
+repository this document will serve as a guide. Contributions can come in various forms such as [bug reports](#bug-reports),
+engaging with other users by offering help on the the [discourse group](https://netfoundry.discourse.group/) and
 of course as code submissions. Please take a moment and read this document to see how you can help out.
 
 ## Bug/Issue Reports
@@ -49,7 +49,8 @@ Additional guidelines:
 
     Here's what I did:
 
-    # Build from the master branch
+    # Environment: Windows 10 [Version 10.0.18362.535]
+    # Build from the master branch using `go version go1.13.4 linux/amd64`
     # Log into UI and click "new thing" using Firefox 71.0 (32 bit)
     # Fill out all the required fields
     # When filling out out the Name field ensure you use a name with an apostrophe. I used "Jerry O'Connell"
