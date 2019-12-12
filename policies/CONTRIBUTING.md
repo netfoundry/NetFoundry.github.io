@@ -34,7 +34,7 @@ Additional guidelines:
 
 * The issue tracker is not for support requests. Please use the [discourse group](https://netfoundry.discourse.group/)
   for questions about "how do i do this" or for seeking additional information that may not be documented yet.
-* You are expected to follow the [code of conduct](./code-of-conduct.md) at all times. Please be respectful of issues
+* You are expected to follow the [code of conduct](./CODE_OF_CONDUCT.md) at all times. Please be respectful of issues
   entered by others.
 * Keep responses in the issues specifically about the issue itself. If another issue arises or if discussion is
   warranted open a new issue and use the [discourse group](https://netfoundry.discourse.group/) accordingly.
