@@ -15,7 +15,8 @@
         "files": [
           "images/**",
           "index.html",
-          "policies/index.html"
+          "policies/index.html",
+          "policies/NetFoundry-*pdf"
         ]
       }
     ],
