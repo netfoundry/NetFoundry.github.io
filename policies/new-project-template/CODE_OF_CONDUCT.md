@@ -12,6 +12,6 @@ and to the violator.
 
 ## Violations
 
-Contributors violating the Code of Conduct will receive public notification of the violation. Contined violations or
+Contributors violating the Code of Conduct will receive public notification of the violation. Continued violations or
 aggregious violations of the Code of Conduct will result in the contributor being removed from the contributors list as
 well as further contributions being declined.
