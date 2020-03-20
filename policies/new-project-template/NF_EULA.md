@@ -240,7 +240,7 @@ Information; (b) return or destroy the Confidential Information, including any S
 extracts thereof to the Disclosing Party within seven (7) business days of receipt of such request; and (c) upon
 request of the Disclosing Party, confirm in writing that it has complied with these obligations.
 
-17. **17. General Provisions.**
+**17. General Provisions.**
 
 **17.1. Governing Law**. This Agreement shall be governed and construed in accordance with the laws of the State
 of [New York] and the parties hereby irrevocably consent to the exclusive jurisdiction of the state and federal
