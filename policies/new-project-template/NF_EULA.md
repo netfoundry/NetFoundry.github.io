@@ -2,15 +2,29 @@
 
 **End User License Agreement**
 
-This End User License Agreement (&quot; **Agreement**&quot;) is between NetFoundry, Inc. (&quot; **NetFoundry**&quot;), and the individual, organization, or entity using the NetFoundry software (the &quot; **Software**&quot;) pursuant to this Agreement (&quot; **Customer**&quot;).
+This End User License Agreement (&quot; **Agreement**&quot;) is between NetFoundry, Inc. (&quot; **NetFoundry**&quot;),
+and the individual, organization, or entity using the NetFoundry software (the &quot; **Software**&quot;) pursuant to
+this Agreement (&quot; **Customer**&quot;).
 
-This Agreement forms a binding legal agreement between NetFoundry and Customer regarding Customer&#39;s use of and access to the Software.  NetFoundry is not willing to provide Customer with access to or use of the Software unless Customer agrees to be bound by this Agreement.  By placing an order for any Software (an &quot; **Order**&quot;), or by downloading, installing, or using any part of the Software, you agree to be bound by this Agreement.  All Orders accepted by NetFoundry are incorporated in and made part of this Agreement.
+This Agreement forms a binding legal agreement between NetFoundry and Customer regarding Customer&#39;s use of and
+access to the Software.  NetFoundry is not willing to provide Customer with access to or use of the Software unless
+Customer agrees to be bound by this Agreement.  By placing an order for any Software (an &quot; **Order**&quot;), or by
+downloading, installing, or using any part of the Software, you agree to be bound by this Agreement.  All Orders
+accepted by NetFoundry are incorporated in and made part of this Agreement.
 
-If you are placing an Order or downloading, installing, or using any part of the Software on behalf of another organization or entity, by placing an Order or downloading, installing, or using any part of the Software, you represent and warrant that you have authority to bind that organization or entity to this Agreement.  If you do not have such authority, or you do not agree to the terms of this Agreement, do not place an Order ordownload, install or use the Software.
+If you are placing an Order or downloading, installing, or using any part of the Software on behalf of another
+organization or entity, by placing an Order or downloading, installing, or using any part of the Software, you represent
+and warrant that you have authority to bind that organization or entity to this Agreement.  If you do not have such
+authority, or you do not agree to the terms of this Agreement, do not place an Order ordownload, install or use the
+Software.
 
-PLEASE READ THIS AGREEMENT CAREFULLY. THIS AGREEMENT CONTAINS PROVISIONS THAT LIMIT NETFOUNDRY&#39;S LIABILITY AND WAIVE EACH PARTY&#39;S ABILITY TO HAVE DISPUTES DECIDED BY A JURY.  CUSTOMER&#39;S BREACH OF ANY PROVISION OF THIS AGREEMENT WILL AUTOMATICALLY, WITHOUT THE REQUIREMENT OF NOTICE OR OTHER ACTION, REVOKE AND TERMINATE CUSTOMER&#39;S RIGHT TO USE THE SOFTWARE.
+PLEASE READ THIS AGREEMENT CAREFULLY. THIS AGREEMENT CONTAINS PROVISIONS THAT LIMIT NETFOUNDRY&#39;S LIABILITY AND WAIVE
+EACH PARTY&#39;S ABILITY TO HAVE DISPUTES DECIDED BY A JURY.  CUSTOMER&#39;S BREACH OF ANY PROVISION OF THIS AGREEMENT
+WILL AUTOMATICALLY, WITHOUT THE REQUIREMENT OF NOTICE OR OTHER ACTION, REVOKE AND TERMINATE CUSTOMER&#39;S RIGHT TO USE
+THE SOFTWARE.
 
-Capitalized terms used in this Agreement have the definitions given in the context in which they are used. All other terms used herein have the plain English (U.S.) meaning.
+Capitalized terms used in this Agreement have the definitions given in the context in which they are used. All other
+terms used herein have the plain English (U.S.) meaning.
 
 **1. Term.**  The term of this Agreement (&quot;**Term**&quot;) begins on the date NetFoundry accepts the initial Order
 Customer places or any earlier date on which Customer downloads, installs, or uses any part of the Software (the
@@ -124,7 +138,11 @@ of privacy, and any and all other legal rights protecting data, information or i
 including, without limitation, any and all copyrights, trademarks, service marks, trade secrets, patent rights, moral
 rights, sui generis rights in databases, and contract rights.
 
-**9. Feedback.**  If Customer or its End Users provide NetFoundry with any suggestion, enhancement or modification request, recommendation, correction or other feedback, including any report of defects in the Software and/or Services (collectively &quot; **Feedback**&quot;), Customer hereby grants NetFoundry the right to use and exploit such Feedback including, without limitation, by incorporating such Feedback into NetFoundry&#39;s software products and/or services, including, without limitation, the Services, without any obligation or compensation to Customer or its End Users.
+**9. Feedback.**  If Customer or its End Users provide NetFoundry with any suggestion, enhancement or modification
+request, recommendation, correction or other feedback, including any report of defects in the Software and/or Services
+(collectively &quot; **Feedback**&quot;), Customer hereby grants NetFoundry the right to use and exploit such Feedback
+including, without limitation, by incorporating such Feedback into NetFoundry&#39;s software products and/or services,
+including, without limitation, the Services, without any obligation or compensation to Customer or its End Users.
 
 **10. Maintenance and Support.**  Except as may be set forth in the MSA or in another separate agreement with
 NetFoundry, NetFoundry is solely obligated to provide Customer the support, maintenance or training relating to the
@@ -135,13 +153,31 @@ training, as applicable.  Any updates, upgrades, new versions, or new releases o
 NetFoundry will be treated as part of the &quot;Software&quot; for purposes of this Agreement.  Customer acknowledges
 that Apple has no obligation whatsoever to furnish any support, maintenance or training with respect to the Software.
 
-**11. Third Party Code**  The Software may contain or include software code owned or provided by third-party licensors of NetFoundry (&quot; **Third-Party Code**&quot;). For any Third-Party Code clearly indicated to be subject to the terms of a third party license (a &quot; **Third-Party License**&quot;), the terms of the applicable Third-Party License will apply to the Third-Party Code independent of the terms of this Agreement and Customer shall comply with such terms. All other Third-Party Code provided to Customer by NetFoundry may be used only under the terms of this Agreement. Nothing in this Agreement limits Customer&#39;s rights under, or grants rights to Customer that supersede, the terms of any such applicable Third-Party License.
+**11. Third Party Code**  The Software may contain or include software code owned or provided by third-party licensors
+of NetFoundry (&quot; **Third-Party Code**&quot;). For any Third-Party Code clearly indicated to be subject to the terms
+of a third party license (a &quot; **Third-Party License**&quot;), the terms of the applicable Third-Party License will
+apply to the Third-Party Code independent of the terms of this Agreement and Customer shall comply with such terms. All
+other Third-Party Code provided to Customer by NetFoundry may be used only under the terms of this Agreement. Nothing in
+this Agreement limits Customer&#39;s rights under, or grants rights to Customer that supersede, the terms of any such
+applicable Third-Party License.
 
-**12. Third Party Services.**  The Software may provide Customer the ability to access data, services, and/or software developed, provided, or maintained by Customer or third party service providers (collectively, &quot;**Third Party Services**&quot;). NetFoundry is not responsible for any Third Party Services, including the connection thereto or the data exchanged with or collected by such Third Party Services. Customer acknowledges that the access or use of any such Third Party Services is solely at its own risk and hereby waives any and all claims against NetFoundry with respect to such Third Party Services.
+**12. Third Party Services.**  The Software may provide Customer the ability to access data, services, and/or software
+developed, provided, or maintained by Customer or third party service providers (collectively, &quot;**Third Party
+Services**&quot;). NetFoundry is not responsible for any Third Party Services, including the connection thereto or the
+data exchanged with or collected by such Third Party Services. Customer acknowledges that the access or use of any such
+Third Party Services is solely at its own risk and hereby waives any and all claims against NetFoundry with respect to
+such Third Party Services.
 
 **13. Representations, Warranties and Disclaimers.**
 
-**13.1. Customer&#39;s Warranties.** Customer represents, warrants, and covenants that: (a) Customer is a business duly incorporated, validly existing, and in good standing under the laws of its jurisdiction of incorporation;; (b) Customer has all requisite corporate power and authority to execute, deliver, and perform its obligations under this Agreement, including the legal right and authority to grant the rights and licenses described in this Agreement and in any applicable additional agreement Customer enters into in connection with this Agreement; (c) the execution, delivery, and performance of this Agreement constitutes Customer&#39;s legal, valid, and binding agreement; and (d) Customer will access and use the Software only as expressly set forth in this Agreement at all times in strict compliance with the terms of this Agreement.
+**13.1. Customer&#39;s Warranties.** Customer represents, warrants, and covenants that: (a) Customer is a business duly
+incorporated, validly existing, and in good standing under the laws of its jurisdiction of incorporation;; (b) Customer
+has all requisite corporate power and authority to execute, deliver, and perform its obligations under this Agreement,
+including the legal right and authority to grant the rights and licenses described in this Agreement and in any
+applicable additional agreement Customer enters into in connection with this Agreement; (c) the execution, delivery, and
+performance of this Agreement constitutes Customer&#39;s legal, valid, and binding agreement; and (d) Customer will
+access and use the Software only as expressly set forth in this Agreement at all times in strict compliance with the
+terms of this Agreement.
 
 **13.2. Disclaimer.** EXCEPT AS SPECIFICALLY SET FORTH IN THIS AGREEMENT, THE SOFTWARE IS PROVIDED &quot;AS
 IS&quot; AND &quot;AS AVAILABLE&quot; WITHOUT ANY REPRESENTATIONS, WARRANTIES AND/OR COVENANTS OF ANY KIND. NETFOUNDRY
@@ -312,5 +348,6 @@ have the right (and will be deemed to have accepted the right) to enforce this A
 party beneficiary thereof. No other party shall be deemed to have received any third party beneficiary rights under
 this Agreement and, except as indicated above, no term of this Agreement will be construed to confer any such rights.
 
-**17.13. Contact Information.** Any questions, complaints or claims with respect to the Software may be addressed to NetFoundry at the following address:
-Attn: NetFoundry Support,provided through email at support@netfoundry.io, or by calling 1.855.284.2007.
+**17.13. Contact Information.** Any questions, complaints or claims with respect to the Software may be addressed to
+NetFoundry at the following address: Attn: NetFoundry Support, 101 S Tryon Street, Suite 2700 Charlotte, North Carolina,
+USA 28280, provided through email at support@netfoundry.io, or by calling 1.855.284.2007.
